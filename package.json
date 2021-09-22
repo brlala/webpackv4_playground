@@ -30,7 +30,7 @@
     "webpack-dev-server": "^4.2.1"
   },
   "dependencies": {
-    "react": "^16.10.2",
+    "react": "^17.0.2",
     "react-dom": "^16.10.2",
     "react-router-dom": "^5.1.2"
   }
